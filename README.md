@@ -7,11 +7,9 @@ Pre Requestes:
 
 3.Maven
 
-4.apache tomcat 8+
+4.MySql server
 
-5.MySql server
-
-6.REST client (eg. Postman )
+5.REST client (eg. Postman )
 
 How project works.
 
