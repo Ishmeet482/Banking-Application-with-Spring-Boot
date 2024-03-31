@@ -11,10 +11,10 @@ Pre Requestes:
 
 5.REST client (eg. Postman )
 
-How project works.
+Project Structure:
 
-Step 1: open project from any Spring pluging enable Ide 
-Step 2: change databse configurate at application context file 
+Step 1: Open project from any Spring pluging enabled ID
+Step 2: Change databse configurate at application context file 
 Step 3: Run spring boot application via IDE.
 
 Add data via rest client
