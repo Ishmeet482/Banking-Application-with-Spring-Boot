@@ -4,11 +4,11 @@ This project is a comprehensive banking application developed in Java, designed 
 
 ## ⚙️ Prerequisites
 
-1.) Java
-2.) Spring Boot
-3.) Spring Data JPA
-4.) Hibernate
-5.) RESTful API
+1. Java
+2. Spring Boot
+3. Spring Data JPA
+4. Hibernate
+5. RESTful API
 
 ### 📂 Optional API keys
 
